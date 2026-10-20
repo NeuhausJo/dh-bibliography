@@ -11,7 +11,7 @@ const CONFIG = {
   //   own library:    libraryType "users",  libraryId = your userID (zotero.org/settings/keys)
   //                   – your library must be public: zotero.org/settings/privacy → «Publish Entire Library»
   libraryType: "users"",
-  libraryId: "zo82cwIoOUSekUnEXXJb3hr6",          // dh_unibe (open group of DH Bern)
+  libraryId: "11957357",          // dh_unibe (open group of DH Bern)
 
   // Optional: only one collection (the 8-character key in the collection's URL), "" = whole library
   collectionKey: "BT3NCKZK",     // dh_unibe → lecture-introduction
