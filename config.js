@@ -17,7 +17,7 @@ const CONFIG = {
   collectionKey: "2QXRR55I",    // dh_unibe → lecture-introduction
 
   // Citation style (any CSL style id, e.g. "apa", "chicago-author-date", "modern-language-association")
-  style: "3d-printing-in-medicine",
+  style: "infoclio-de",
 
   // Group the list: "none", "year", "type" or "tag"
   groupBy: "year",
