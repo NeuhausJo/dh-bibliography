@@ -4,7 +4,7 @@
 const CONFIG = {
   // Page title and the text below it
   title: "My DH bibliography",
-  intro: "An annotated bibliography on … Built from my Zotero library via the Zotero API.",
+  intro: "An annotated bibliography on ecologic sustainability of cocoa farming in the Gold Coast between 1930 and 1960. Built from my Zotero library via the Zotero API.",
 
   // Which library?
   //   group library:  libraryType "groups", libraryId = number in zotero.org/groups/<number>/…
